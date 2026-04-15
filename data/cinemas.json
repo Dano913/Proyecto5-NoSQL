@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Cine Yelmo",
+    "movies": ["Titanic", "Avatar", "Inception", "Interstellar"]
+  },
+  {
+    "id": 2,
+    "name": "Cinesa",
+    "movies": ["The Dark Knight", "Gladiator", "Pulp Fiction"]
+  },
+  {
+    "id": 3,
+    "name": "Kinépolis",
+    "movies": ["Avengers: Endgame", "Spider-Man: No Way Home"]
+  },
+  {
+    "id": 4,
+    "name": "Cine Callao",
+    "movies": ["Forrest Gump", "Fight Club"]
+  },
+  {
+    "id": 5,
+    "name": "Cine Renoir",
+    "movies": ["The Godfather", "Pulp Fiction"]
+  },
+  {
+    "id": 6,
+    "name": "Cine Verdi",
+    "movies": ["The Matrix", "John Wick"]
+  },
+  {
+    "id": 7,
+    "name": "Cine Capitol",
+    "movies": ["Star Wars: A New Hope", "Star Wars: The Empire Strikes Back"]
+  },
+  {
+    "id": 8,
+    "name": "Cine Dreams",
+    "movies": ["Star Wars: Return of the Jedi", "Avatar"]
+  },
+  {
+    "id": 9,
+    "name": "Cine Action",
+    "movies": ["Mad Max: Fury Road", "John Wick"]
+  },
+  {
+    "id": 10,
+    "name": "Cine Classic",
+    "movies": ["Casablanca", "The Godfather"]
+  },
+  {
+    "id": 11,
+    "name": "Cine Plaza",
+    "movies": ["Titanic", "The Matrix"]
+  },
+  {
+    "id": 12,
+    "name": "Cine Nova",
+    "movies": ["Interstellar", "Inception"]
+  },
+  {
+    "id": 13,
+    "name": "Cine Lumière",
+    "movies": ["Fight Club", "Pulp Fiction"]
+  },
+  {
+    "id": 14,
+    "name": "Cine Madrid Sur",
+    "movies": ["Avengers: Endgame", "Spider-Man: No Way Home"]
+  },
+  {
+    "id": 15,
+    "name": "Cine Norte",
+    "movies": ["Gladiator", "The Dark Knight"]
+  },
+  {
+    "id": 16,
+    "name": "Cine Oeste",
+    "movies": ["The Lord of the Rings: The Return of the King", "The Hobbit"]
+  },
+  {
+    "id": 17,
+    "name": "Cine Este",
+    "movies": ["Star Wars: A New Hope", "Titanic"]
+  },
+  {
+    "id": 18,
+    "name": "Cine Centro",
+    "movies": ["Avatar", "Inception"]
+  },
+  {
+    "id": 19,
+    "name": "Cine Gran Vía",
+    "movies": ["The Matrix", "John Wick"]
+  },
+  {
+    "id": 20,
+    "name": "Cine Imperial",
+    "movies": ["The Godfather", "Forrest Gump"]
+  }
+]

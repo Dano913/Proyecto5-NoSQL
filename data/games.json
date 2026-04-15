@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "GTA V", "genre": "Action" },
+  { "id": 2, "name": "The Witcher 3", "genre": "RPG" },
+  { "id": 3, "name": "FIFA 24", "genre": "Sports" },
+  { "id": 4, "name": "Minecraft", "genre": "Sandbox" },
+  { "id": 5, "name": "Elden Ring", "genre": "RPG" },
+  { "id": 6, "name": "Call of Duty: Warzone", "genre": "Shooter" },
+  { "id": 7, "name": "Fortnite", "genre": "Battle Royale" },
+  { "id": 8, "name": "League of Legends", "genre": "MOBA" },
+  { "id": 9, "name": "Valorant", "genre": "Shooter" },
+  { "id": 10, "name": "Cyberpunk 2077", "genre": "RPG" },
+  { "id": 11, "name": "Red Dead Redemption 2", "genre": "Adventure" },
+  { "id": 12, "name": "God of War", "genre": "Action" },
+  { "id": 13, "name": "Horizon Zero Dawn", "genre": "Action RPG" },
+  { "id": 14, "name": "Assassin's Creed Valhalla", "genre": "Action RPG" },
+  { "id": 15, "name": "Dark Souls III", "genre": "RPG" },
+  { "id": 16, "name": "Resident Evil Village", "genre": "Horror" },
+  { "id": 17, "name": "The Last of Us Part II", "genre": "Adventure" },
+  { "id": 18, "name": "NBA 2K24", "genre": "Sports" },
+  { "id": 19, "name": "Gran Turismo 7", "genre": "Racing" },
+  { "id": 20, "name": "Among Us", "genre": "Party" }
+]
